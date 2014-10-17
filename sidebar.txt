@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cy:home|Door43 (cy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cy|d43-cy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cy/archive/master.zip|d43-cy.zip]]
+
+**Recent Changes**
+{{changes>ns = cy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cy|Ethnologue data]]
+
